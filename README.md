@@ -36,3 +36,19 @@ npm run dev
 
 #### Cadastrar Usuário
 - Botão Cadastrar Usuário
+
+## Ferramentas utilizadas
+
+### Back-end
+- Nodejs
+- Nestjs
+- TypeOrm
+- Postgres
+- Docker
+- Typescript
+
+### Front-end
+- Reactjs
+- Typescript
+- Vitejs
+- Material
